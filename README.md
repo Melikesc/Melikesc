@@ -2,8 +2,6 @@
 <h3 align="center">A passionate iOS developer from Türkiye.</h3>
 
 
-- 🔭 I’m currently working on **Messenger Clone with SwiftUI.**
-
 - 🌱 I’m currently learning **Swift**
 
 - 💬 Ask me about **iOS, Swift, SwiftUI**
