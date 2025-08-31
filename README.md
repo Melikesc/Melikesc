@@ -2,7 +2,7 @@
 <h3 align="center">A passionate iOS developer from Türkiye.</h3>
 
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift, UIKIT**
 
 - 💬 Ask me about **iOS, Swift, SwiftUI**
 
